@@ -12,4 +12,5 @@ body:
     description: "The feature you're requesting. Should have to do with the API."
     placeholder: "Add this endpoint because..."
   validations:
-    required: true
+    required: true fortnite
+    
